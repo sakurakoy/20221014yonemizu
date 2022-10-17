@@ -13,7 +13,7 @@ a {
   top: 0;
   z-index: 10000;
   justify-content: space-between;
-  padding: 0 30px;
+  padding: 30px 30px;
   align-items: center;
   height: 30px;
   background-color: rgba(255, 255, 255, 0.8);
@@ -108,7 +108,8 @@ a {
   margin-bottom: 2%;
 }
 .news__list {
-  border-top: 1px solid #AAAAAA;
+  border-top: 2px solid #AAAAAA;
+  border-bottom: 2px solid #AAAAAA;
   width: 100%;
   list-style: none;
 }
